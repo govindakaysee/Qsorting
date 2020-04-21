@@ -1,0 +1,35 @@
+/*Govinda KC 1001750264 */ 
+#include<Stdio.h>
+int main (void)
+{
+	int q,w,e,r,t,y;
+
+	printf("Enter i's starting value: ");
+	scanf("%d", &q);
+	printf("Enter i's ending value:");
+	scanf("%d", &w);
+	printf("Enter j's starting value:");
+	scanf("%d", &e);
+	printf("Enter i's ending value:");
+	scanf("%d", &r);
+	printf("Enter k's starting value:");
+	scanf("%d", &t);
+	printf("Enter i's ending value:");
+	scanf("%d", &y);
+	
+	for ( i = q; i<=w; i++);
+		{
+			for (j = e ; j<=r; j++);
+			{
+				for(k = t; k<=y;k++);
+				{
+					printf("*");
+				}
+				printf("\n);
+			}
+		}
+
+
+	}
+	
+}

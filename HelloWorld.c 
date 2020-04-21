@@ -1,0 +1,17 @@
+/* Govinda KC 1001750264 */
+
+/* This is my first C program for CSE 1320 */
+
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Hello world\n");
+	printf("CSE1310-001");
+
+	printf("\b\b20");
+
+	return 0;
+	
+}
+
