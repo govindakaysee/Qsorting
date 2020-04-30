@@ -1,4 +1,4 @@
-//Govinda KC 1001750264
+//Govinda KC
 
 #ifndef DRAWTOOL
 #define DRAWTOOL
