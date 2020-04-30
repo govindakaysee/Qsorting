@@ -1,4 +1,4 @@
-# Govinda KC 1001750264     makefile from coding 4
+# Govinda KC 
 SRC1 = Code5_1001750264.c
 SRC2 = Gamelib.c
 OBJ1 = $(SRC1:.c=.o)
