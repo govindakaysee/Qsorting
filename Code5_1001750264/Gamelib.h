@@ -1,4 +1,4 @@
-//Govinda KC    1001750264
+//Govinda KC    
 #ifndef _GAMELIB_H
 #define _GAMELIB_H
 
