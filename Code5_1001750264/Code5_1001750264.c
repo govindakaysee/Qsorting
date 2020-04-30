@@ -1,4 +1,4 @@
-//Govinda KC    1001750264
+//Govinda KC    
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
