@@ -1,4 +1,4 @@
-# Govinda KC 1001750264
+# Govinda KC
 SRC1 = Code4_1001750264.c
 SRC2 = DrawTool.c
 OBJ1 = $(SRC1:.c=.o)
